@@ -1,0 +1,1 @@
+This repo will keep all of the scripts and config files used for moving data from Salesforce to Azure Cosmos DB. It will exclude any sensitive data.
